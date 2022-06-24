@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78.027" height="85.744" viewBox="0 0 78.027 85.744">
+  <g id="Page-1" transform="translate(0)" style="mix-blend-mode: normal;isolation: isolate">
+    <g id="Artboard-Copy-3" transform="translate(0)">
+      <g id="Group-3" transform="translate(0)">
+        <g id="Group-16" transform="translate(0 8.574)">
+          <path id="Path" d="M60.021,30.63V69.848c0,4.043-2.926,7.321-6.536,7.321H6.536a6.2,6.2,0,0,1-4.621-2.144A7.791,7.791,0,0,1,0,69.848V7.373a7.8,7.8,0,0,1,1.9-5.21A6.2,6.2,0,0,1,6.536,0H32.724Z" transform="translate(0)" fill="#17bebb"/>
+          <path id="Path-2" data-name="Path" d="M38.165,14.349V0l27.3,27.226H51.1A12.905,12.905,0,0,1,38.165,14.349Z" transform="translate(-5.441)" fill="#0b8983"/>
+          <line id="Path-3" data-name="Path" x2="13.556" transform="translate(8.083 9.244)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.753"/>
+          <line id="Path-4" data-name="Path" x2="13.556" transform="translate(8.083 18.856)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.753"/>
+          <line id="Path-5" data-name="Path" x2="20.877" transform="translate(8.083 28.445)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.753"/>
+          <line id="Path-6" data-name="Path" x2="44.063" transform="translate(8.083 38.034)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.753"/>
+          <line id="Path-7" data-name="Path" x2="44.063" transform="translate(8.083 48.727)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.753"/>
+          <line id="Path-8" data-name="Path" x2="44.063" transform="translate(8.083 59.397)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.753"/>
+        </g>
+        <g id="Group-2" transform="translate(10.289)">
+          <g id="Group">
+            <path id="Path-9" data-name="Path" d="M67.738,34V77.641c-.031,4.444-3.266,8.045-7.279,8.1H7.376A7.033,7.033,0,0,1,2.16,83.352,8.632,8.632,0,0,1,0,77.577V8.06C.053,3.591,3.34,0,7.376,0H36.937Z" fill="#fd0057"/>
+            <path id="Path-10" data-name="Path" d="M43,18.014V0L73.868,34.3H57.609C49.541,34.3,43,27.007,43,18.014Z" transform="translate(-6.13)" fill="#aa0041"/>
+          </g>
+          <rect id="Rectangle" width="10.425" height="10.289" transform="translate(7.717 26.581)" fill="#fff"/>
+          <rect id="Rectangle-Copy" width="10.425" height="10.289" transform="translate(25.588 26.581)" fill="#fff"/>
+          <rect id="Rectangle-Copy-2" width="10.204" height="9.67" transform="translate(40.385 44.587)" fill="#fff"/>
+          <rect id="Rectangle-Copy-3" width="10.204" height="9.67" transform="translate(24.351 44.587)" fill="#fff"/>
+          <rect id="Rectangle-Copy-4" width="10.204" height="9.67" transform="translate(6.86 44.587)" fill="#fff"/>
+          <rect id="Rectangle-Copy-5" width="10.204" height="9.67" transform="translate(7.588 59.783)" fill="#fff"/>
+          <rect id="Rectangle-Copy-6" width="10.204" height="9.67" transform="translate(24.351 59.783)" fill="#fff"/>
+          <rect id="Rectangle-Copy-7" width="10.204" height="9.67" transform="translate(40.385 59.783)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

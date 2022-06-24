@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375.383" height="367.823" viewBox="0 0 375.383 367.823">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#05a1e8"/>
+      <stop offset="1" stop-color="#0562e8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3dba85"/>
+      <stop offset="1" stop-color="#1de885"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="1.001" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d35400"/>
+      <stop offset="1" stop-color="#ffb62d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0" x2="1" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="1" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#db1162"/>
+      <stop offset="1" stop-color="#ff6817"/>
+    </linearGradient>
+  </defs>
+  <g id="xenonstack-managed-services-for-cloud-and-big-data" transform="translate(0.542)" style="mix-blend-mode: normal;isolation: isolate">
+    <circle id="Ellipse_11950" data-name="Ellipse 11950" cx="117.033" cy="117.033" r="117.033" transform="translate(71.971 133.757)" fill="url(#linear-gradient)"/>
+    <path id="Path_33347" data-name="Path 33347" d="M136.574,154.174A116.955,116.955,0,0,0,19.58,37.18V271.167A116.994,116.994,0,0,0,136.574,154.174Z" transform="translate(169.463 96.616)" opacity="0.25"/>
+    <path id="Path_33348" data-name="Path 33348" d="M90.5,2.94a55.019,55.019,0,0,1,39.7,93.118C120.155,106.491,90.5,136.7,90.5,136.7S57.789,105.007,47.708,92.541A54.98,54.98,0,0,1,90.5,2.94Z" transform="translate(98.547 -2.94)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_33349" data-name="Path 33349" d="M222.629,106.071a31.808,31.808,0,0,1-31.652,31.847H86.723A31.73,31.73,0,0,1,76.094,76.3V74.732a21.3,21.3,0,0,1,21.335-21.3A21.531,21.531,0,0,1,109.153,56.8a46.618,46.618,0,0,1,87.257,17.858A31.808,31.808,0,0,1,222.629,106.071Z" transform="translate(-55 83.33)" stroke="#fff" stroke-width="1.02" fill="url(#linear-gradient-3)"/>
+    <rect id="Rectangle_8034" data-name="Rectangle 8034" width="168.144" height="76.159" rx="9.74" transform="translate(206.197 270.289)" stroke="#fff" stroke-width="1" fill="url(#linear-gradient-4)"/>
+    <circle id="Ellipse_11951" data-name="Ellipse 11951" cx="20.788" cy="20.788" r="20.788" transform="translate(224.133 287.599)" fill="#fff"/>
+    <rect id="Rectangle_8035" data-name="Rectangle 8035" width="83.232" height="16.529" rx="2.12" transform="translate(282.943 300.846)" fill="#fff"/>
+    <circle id="Ellipse_11952" data-name="Ellipse 11952" cx="27.431" cy="27.431" r="27.431" transform="translate(276.026 135.008)" fill="url(#linear-gradient-5)"/>
+    <circle id="Ellipse_11953" data-name="Ellipse 11953" cx="17.858" cy="17.858" r="17.858" transform="translate(57.435 305.223)" fill="url(#linear-gradient-5)"/>
+    <circle id="Ellipse_11954" data-name="Ellipse 11954" cx="11.332" cy="11.332" r="11.332" transform="translate(206.002 41.421)" fill="#fff"/>
+    <circle id="Ellipse_11955" data-name="Ellipse 11955" cx="11.332" cy="11.332" r="11.332" transform="translate(177.594 41.421)" fill="#fff"/>
+    <circle id="Ellipse_11956" data-name="Ellipse 11956" cx="11.332" cy="11.332" r="11.332" transform="translate(149.146 41.421)" fill="#fff"/>
+  </g>
+</svg>

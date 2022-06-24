@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.275" height="261.75" viewBox="0 0 23.275 261.75">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="23.274" height="261.75" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4279e8"/>
+      <stop offset="1" stop-color="#42c2e8"/>
+    </linearGradient>
+  </defs>
+  <g id="Repeat_Grid_2" data-name="Repeat Grid 2" clip-path="url(#clip-path)" style="mix-blend-mode: normal;isolation: isolate">
+    <g id="Group_9904" data-name="Group 9904" transform="translate(0.26 -0.237)">
+      <ellipse id="Ellipse_404" data-name="Ellipse 404" cx="11.137" cy="11.251" rx="11.137" ry="11.251" transform="translate(-0.26 0.237)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Group_9904-2" data-name="Group 9904" transform="translate(0.26 76.763)">
+      <ellipse id="Ellipse_404-2" data-name="Ellipse 404" cx="11.137" cy="11.251" rx="11.137" ry="11.251" transform="translate(-0.26 0.237)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Group_9904-3" data-name="Group 9904" transform="translate(0.26 153.763)">
+      <ellipse id="Ellipse_404-3" data-name="Ellipse 404" cx="11.137" cy="11.251" rx="11.137" ry="11.251" transform="translate(-0.26 0.237)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Group_9904-4" data-name="Group 9904" transform="translate(0.26 230.763)">
+      <ellipse id="Ellipse_404-4" data-name="Ellipse 404" cx="11.137" cy="11.251" rx="11.137" ry="11.251" transform="translate(-0.26 0.237)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

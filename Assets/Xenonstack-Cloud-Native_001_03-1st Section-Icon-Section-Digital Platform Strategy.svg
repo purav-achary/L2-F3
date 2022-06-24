@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59.51" height="58.067" viewBox="0 0 59.51 58.067">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1.181" x2="0.5" y2="-0.041" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f8d349"/>
+      <stop offset="1" stop-color="#f8ae49"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#db1162"/>
+      <stop offset="1" stop-color="#ff6817"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="-0.889" y1="0.5" x2="1.934" y2="0.5" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-4" x1="0.5" y1="1.007" x2="0.5" y2="0.048" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4279e8"/>
+      <stop offset="1" stop-color="#42d9e8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-4"/>
+    <linearGradient id="linear-gradient-6" x1="-3.326" y1="0.5" x2="0.086" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d35400"/>
+      <stop offset="1" stop-color="#ffb62d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="-1.851" x2="1.56" xlink:href="#linear-gradient-6"/>
+    <linearGradient id="linear-gradient-8" x1="-0.377" x2="3.034" xlink:href="#linear-gradient-6"/>
+    <linearGradient id="linear-gradient-9" x1="0" y1="0.501" x2="1" y2="0.501" xlink:href="#linear-gradient-4"/>
+    <linearGradient id="linear-gradient-10" x1="0.001" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-11" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-4"/>
+    <linearGradient id="linear-gradient-13" x1="0.001" x2="1" xlink:href="#linear-gradient-6"/>
+  </defs>
+  <g id="Xenonstack-Cloud-Native_001_03-1st_Section-Icon-Section-Digital_Platform_Strategy" data-name="Xenonstack-Cloud-Native_001_03-1st Section-Icon-Section-Digital Platform Strategy" style="mix-blend-mode: normal;isolation: isolate">
+    <rect id="Rectangle_3716" data-name="Rectangle 3716" width="59.478" height="42.807" transform="translate(0.026 6.911)" fill="#e6e6e6"/>
+    <rect id="Rectangle_3717" data-name="Rectangle 3717" width="9.149" height="9.149" rx="4.574" transform="translate(21.67 32.048)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_3718" data-name="Rectangle 3718" width="14.366" height="14.366" rx="2.7" transform="translate(5.474 40.543)" fill="url(#linear-gradient-2)"/>
+    <circle id="Ellipse_1173" data-name="Ellipse 1173" cx="4.899" cy="4.899" r="4.899" transform="translate(7.758 42.823)" fill="#f1f2f2"/>
+    <circle id="Ellipse_1174" data-name="Ellipse 1174" cx="2.63" cy="2.63" r="2.63" transform="translate(10.027 45.092)" fill="url(#linear-gradient-3)"/>
+    <path id="Path_14309" data-name="Path 14309" d="M71.118,75.61,61.9,91.571a2.363,2.363,0,0,0,2.044,3.545H82.379a2.363,2.363,0,0,0,2.044-3.545L75.206,75.61a2.358,2.358,0,0,0-4.088,0Z" transform="translate(-31.229 -37.049)" fill="url(#linear-gradient-4)"/>
+    <path id="Path_14310" data-name="Path 14310" d="M89.73,94.468a.308.308,0,0,1-.267.465H84.685a1.7,1.7,0,0,1,0-3.393H87.7a.6.6,0,0,1,.523.3Z" transform="translate(-41.487 -45.215)" fill="#fff"/>
+    <path id="Path_14311" data-name="Path 14311" d="M89.607,106.409H78.215a1.73,1.73,0,0,1-1.741-1.568A1.694,1.694,0,0,1,78.163,103h9.98a.361.361,0,0,1,.314.178l1.307,2.264a1.977,1.977,0,0,1,.2.491.371.371,0,0,1-.355.476Z" transform="translate(-38.331 -50.683)" fill="#fff"/>
+    <path id="Path_14312" data-name="Path 14312" d="M5.321,12.82H61.3a1.751,1.751,0,0,1,1.751,1.751V17.8H3.57V14.571A1.751,1.751,0,0,1,5.321,12.82Z" transform="translate(-3.544 -7.65)" fill="url(#linear-gradient-5)"/>
+    <circle id="Ellipse_1175" data-name="Ellipse 1175" cx="1.83" cy="1.83" r="1.83" transform="translate(55.85)" fill="url(#linear-gradient-6)"/>
+    <circle id="Ellipse_1176" data-name="Ellipse 1176" cx="1.83" cy="1.83" r="1.83" transform="translate(50.455)" fill="url(#linear-gradient-7)"/>
+    <circle id="Ellipse_1177" data-name="Ellipse 1177" cx="1.83" cy="1.83" r="1.83" transform="translate(45.06)" fill="url(#linear-gradient-8)"/>
+    <rect id="Rectangle_3719" data-name="Rectangle 3719" width="11.136" height="3.639" rx="1.819" transform="translate(27.415 16.243)" fill="url(#linear-gradient-9)"/>
+    <rect id="Rectangle_3720" data-name="Rectangle 3720" width="11.136" height="3.639" rx="1.819" transform="translate(41.505 16.243)" fill="#fff"/>
+    <circle id="Ellipse_1178" data-name="Ellipse 1178" cx="2.06" cy="2.06" r="2.06" transform="translate(10.022 16.348)" fill="#fff"/>
+    <circle id="Ellipse_1179" data-name="Ellipse 1179" cx="2.06" cy="2.06" r="2.06" transform="translate(3.639 16.348)" fill="url(#linear-gradient-10)"/>
+    <rect id="Rectangle_3721" data-name="Rectangle 3721" width="11.136" height="3.639" rx="1.819" transform="translate(27.415 23.814)" fill="#fff"/>
+    <rect id="Rectangle_3722" data-name="Rectangle 3722" width="11.136" height="3.639" rx="1.819" transform="translate(41.505 23.814)" fill="url(#linear-gradient-11)"/>
+    <circle id="Ellipse_1180" data-name="Ellipse 1180" cx="2.06" cy="2.06" r="2.06" transform="translate(10.022 23.918)" fill="url(#linear-gradient-10)"/>
+    <circle id="Ellipse_1181" data-name="Ellipse 1181" cx="2.06" cy="2.06" r="2.06" transform="translate(3.639 23.918)" fill="url(#linear-gradient-13)"/>
+    <rect id="Rectangle_3723" data-name="Rectangle 3723" width="59.505" height="1.432" transform="translate(0 10.059)" fill="#b3b3b3"/>
+  </g>
+</svg>
